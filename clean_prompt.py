@@ -1,4 +1,5 @@
 #pip install fastapi uvicorn emoji python-multipart
+# pip install -r requirement.txt
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 import re
