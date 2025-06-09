@@ -1,4 +1,4 @@
-fastapi==0.115.12
-uvicorn==0.34.3
-python-multipart==0.0.20
-emoji==2.14.1
+fastapi
+uvicorn
+python-multipart
+emoji
